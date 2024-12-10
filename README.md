@@ -88,4 +88,4 @@ python -m unittest test_main.py
 
 ## Результат работы программы
 
-![img.png](img/run.png)
+![img.png](images/run.png)
