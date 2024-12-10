@@ -84,4 +84,8 @@ python -m unittest test_main.py
 
 ## Результат юнит-тестов программы
 
+![img.png](images/tests.png)
+
 ## Результат работы программы
+
+![img.png](img/run.png)
